@@ -4,6 +4,8 @@ Omoda E5 Mod
 
 /////// OBD monitoring khusus Omoda E5
 - Kodingan asal, ada proteksi untuk sleep ketika aki < 13 V
+- Masuk ke setting, pilih Bluetooth ODB yang sudah di pair
+- Ketika buka lagi, tap di icon Konek di sebelah kanan atas
   https://github.com/aguscah/OmodaE5Mod/blob/main/E5OBD.apk
 ![image](https://github.com/user-attachments/assets/d1c20bb1-74f3-4b97-a430-73164f1dec0f)
 ![image](https://github.com/user-attachments/assets/65d3bef3-611b-44cd-9035-a24004fa8b3a)
@@ -17,6 +19,7 @@ Omoda E5 Mod
   - Tap Encryption
   - Kalikan 6 digit serial id dengan 802018
   - Masukkan 6 digit terakhir di kolom password
+  - Masukke menu ADB, pilih Open
 3. Cara Install apk di HU
   - Enable ADB
   - Koneksikan adb client (windows only) ke HU melalui kabel USB-A
