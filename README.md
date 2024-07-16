@@ -1,6 +1,10 @@
 # OmodaE5Mod
 Omoda E5 Mod
 
+/////// OBD monitoring khusus Omoda E5
+- Kodingan asal, ada proteksi untuk sleep ketika aki < 13 V
+  https://github.com/aguscah/OmodaE5Mod/blob/main/E5OBD.apk
+
 /////// Install apk di HU Omoda E5
 1. Cara masuk ke hidden menu
   - Masuk ke Local Setting
