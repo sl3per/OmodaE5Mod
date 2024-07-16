@@ -2,11 +2,11 @@
 Omoda E5 Mod
 
 
-/////// OBD monitoring khusus Omoda E5
+/////// OBD monitoring khusus Omoda E5 untuk Android, mirip carscanner
 - Kodingan asal, ada proteksi untuk sleep ketika aki < 13 V
-- Masuk ke setting, pilih Bluetooth ODB yang sudah di pair
+- Masuk ke setting, pilih Bluetooth OBD2 yang sudah di pair
 - Ketika buka lagi, tap di icon Konek di sebelah kanan atas
-- Url : 
+- Apk file : 
   https://github.com/aguscah/OmodaE5Mod/blob/main/E5OBD.apk
 ![image](https://github.com/user-attachments/assets/d1c20bb1-74f3-4b97-a430-73164f1dec0f)
 ![image](https://github.com/user-attachments/assets/65d3bef3-611b-44cd-9035-a24004fa8b3a)
