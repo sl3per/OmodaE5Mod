@@ -30,3 +30,8 @@ Omoda E5 Mod
 1. Disable AEB + DMS
    - moduleid : 327681, cmdid : 37 , payload (1 = ON, 2 = OFF) // AEB
    - moduleid : 327681, cmdid : 195 , payload (1 = ON, 2 = OFF) // DMS
+2. Auto Seat Vent if AC ON
+  - Subs moduleid : 327690, cmdid : 1
+  - Turn on Seat Vent :
+     - moduleid : 327681, cmdid : 94 , payload (1 = OFF, 2-4 = Speed) // Driver side
+     - moduleid : 327681, cmdid : 93 , payload (1 = OFF, 2-4 = Speed) // Pasenger side
