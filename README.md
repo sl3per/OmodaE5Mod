@@ -37,4 +37,7 @@ Omoda E5 Mod
      - moduleid : 327681, cmdid : 94 , payload (1 = OFF, 2-4 = Speed) // Driver side
      - moduleid : 327681, cmdid : 93 , payload (1 = OFF, 2-4 = Speed) // Pasenger side
 
-       [![Watch the video][https://youtu.be/DBa5W6k_9z8 ]
+       
+https://github.com/user-attachments/assets/b54f2e7a-71da-47c0-afd3-124166d21fad
+
+
