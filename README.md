@@ -7,7 +7,7 @@ Omoda E5 Mod
 - Masuk ke setting, pilih Bluetooth OBD2 yang sudah di pair
 - Ketika buka lagi, tap di icon Konek di sebelah kanan atas
 - Apk file : 
-  https://github.com/aguscah/OmodaE5Mod/blob/main/E5OBD.apk
+  [https://github.com/aguscah/OmodaE5Mod/blob/main/E5OBD.apk](https://github.com/sl3per/OmodaE5Mod/blob/main/E5OBD.apk)
 ![image](https://github.com/user-attachments/assets/d1c20bb1-74f3-4b97-a430-73164f1dec0f)
 ![image](https://github.com/user-attachments/assets/65d3bef3-611b-44cd-9035-a24004fa8b3a)
 
@@ -41,7 +41,6 @@ Omoda E5 Mod
 https://github.com/user-attachments/assets/b54f2e7a-71da-47c0-afd3-124166d21fad
 
 
-https://github.com/user-attachments/assets/6351498f-3bb3-43b9-ba57-27c3930982b0
 
 
 
