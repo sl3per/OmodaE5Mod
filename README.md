@@ -14,7 +14,7 @@ Omoda E5 Mod
 
 /////// Install apk di HU Omoda E5
 1. Cara masuk ke hidden menu
-  - Masuk ke Local Setting
+  - Masuk ke Local Setting - System Setting
   - Tap 10x di kiri tengah - atas
 2. Cara enable ADB
   - Tap Encryption
