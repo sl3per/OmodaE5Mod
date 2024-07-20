@@ -30,11 +30,12 @@
   - Tap Encryption
   - Kalikan 6 digit terakhir serialId /  productId dengan 802018
   - Masukkan 6 digit terakhir di kolom password
-  - Masukke menu ADB, pilih Open
+  - Masuk ke menu ADB, pilih Open
 3. Cara Install apk di HU
   - Enable ADB
   - Koneksikan adb client (windows only) ke HU melalui kabel USB-A
   - Install apk seperti biasa (adb push - pm install)
+  - pertama, "adb push" dulu apk ke /data/local/tmp, kemudian masuk ke "adb shell", baru "pm install" apknya
 
 ## More coding 
 1. Disable AEB + DMS
