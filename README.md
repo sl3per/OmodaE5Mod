@@ -1,8 +1,10 @@
 # OmodaE5Mod
 
 ## Auto On/Off Seat Ventilation when AC On/Off
-**Disclaimer : Segala kerusakan terkait mobil anda diluar tanggung jawab developer aplikasi ini, pastikan mengerti konsekuensinya**
-**Penting : Pastikan anda mengerti tentang apa itu _adb, adb shell, adb push, pm install_**
+> [!CAUTION]
+> **!!! Disclaimer : Segala kerusakan terkait mobil anda diluar tanggung jawab developer aplikasi ini, pastikan mengerti konsekuensinya**
+> > [!IMPORTANT]
+> **!!! Penting : Pastikan anda mengerti tentang apa itu _adb, adb shell, adb push, pm install_**
 1. Download E5-AutoOnOffSeatVent.apk diatas
 2. Push apk dan install apk ke HU, pastikan ADB sudah enabled, caranya ada dibagian bawah
 3. Masuk ke homescreen (4 titik kanan bawah), scroll ke bawah, klik apps **AutoSeatVent**
