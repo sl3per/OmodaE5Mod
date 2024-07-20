@@ -13,11 +13,12 @@
 
 ## OBD monitoring khusus Omoda E5 untuk Android, mirip carscanner
 
+- Apk ini di install di HP (tidak semua HP support, cuma tes di Samsung A52), bukan di HU, paling enak install di carlinkit
 - Kodingan asal, ada proteksi untuk sleep ketika aki < 13 V
 - Masuk ke setting, pilih Bluetooth OBD2 yang sudah di pair
 - Ketika buka lagi, tap di icon Konek di sebelah kanan atas
 - Apk file : 
-  [([https://github.com/sl3per/OmodaE5Mod/blob/main/E5OBD-1.1.apk](https://github.com/sl3per/OmodaE5Mod/raw/main/E5OBD-1.1.apk))]
+  [(E5OBD-1.1.apk](https://github.com/sl3per/OmodaE5Mod/raw/main/E5OBD-1.1.apk))]
 ![image](https://github.com/user-attachments/assets/d1c20bb1-74f3-4b97-a430-73164f1dec0f)
 ![image](https://github.com/user-attachments/assets/65d3bef3-611b-44cd-9035-a24004fa8b3a)
 
