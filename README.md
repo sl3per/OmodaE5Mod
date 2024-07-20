@@ -14,6 +14,7 @@
 ## OBD monitoring khusus Omoda E5 untuk Android, mirip carscanner
 
 - Apk ini di install di HP (tidak semua HP support, cuma tes di Samsung A52), bukan di HU, paling enak install di carlinkit
+- Untuk dongle OBD2, gunakan yg versi ELM327 v2.2, yg murah dibawah 100 rb tidak support, bisa pake "vgate iCar 2 OBD2 ELM327", harga 200 rb an
 - Kodingan asal, ada proteksi untuk sleep ketika aki < 13 V
 - Masuk ke setting, pilih Bluetooth OBD2 yang sudah di pair
 - Ketika buka lagi, tap di icon Konek di sebelah kanan atas
