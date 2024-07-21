@@ -12,6 +12,9 @@
 5. Aplikasi akan running setiap kondisi layar HU nyala, bila Automasi tidak jalan, jalankan no 3 lagi
 
 
+https://github.com/user-attachments/assets/c66aacf2-d840-45dc-a1d7-6817c38b49a3
+
+
 ## OBD monitoring khusus Omoda E5 untuk Android, mirip carscanner
 
 - Apk ini di install di HP (tidak semua HP support, cuma tes di Samsung A52), bukan di HU, paling enak install di carlinkit
@@ -51,8 +54,7 @@
      - moduleid : 327681, cmdid : 94 , payload (1 = OFF, 2-4 = Speed) // Driver side
      - moduleid : 327681, cmdid : 93 , payload (1 = OFF, 2-4 = Speed) // Pasenger side
 
-       
-https://github.com/user-attachments/assets/b54f2e7a-71da-47c0-afd3-124166d21fad
+
 
 
 
