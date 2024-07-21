@@ -5,10 +5,11 @@
 > **!!! Disclaimer : Segala kerusakan terkait mobil anda diluar tanggung jawab developer aplikasi ini, pastikan mengerti konsekuensinya**
 > > [!IMPORTANT]
 > **!!! Penting : Pastikan anda mengerti tentang apa itu _adb, adb shell, adb push, pm install_**
-1. Download E5-AutoOnOffSeatVent.apk diatas
-2. Push apk dan install apk ke HU, pastikan ADB sudah enabled, caranya ada dibagian bawah
-3. Masuk ke homescreen (4 titik kanan bawah), scroll ke bawah, klik apps **AutoSeatVent**
-4. Aplikasi akan running setiap kondisi layar HU nyala, bila Automasi tidak jalan, jalankan no 3 lagi
+1. Download   [(E5-AutoOnOffSeatVent-V1.1.apk](https://github.com/sl3per/OmodaE5Mod/raw/main/E5-AutoOnOffSeatVent-V1.1.apk))]
+     - V1.1 : Penambahan fitur Gear Speed
+3. Push apk dan install apk ke HU, pastikan ADB sudah enabled, caranya ada dibagian bawah
+4. Masuk ke homescreen (4 titik kanan bawah), scroll ke bawah, klik apps **AutoSeatVent**
+5. Aplikasi akan running setiap kondisi layar HU nyala, bila Automasi tidak jalan, jalankan no 3 lagi
 
 
 ## OBD monitoring khusus Omoda E5 untuk Android, mirip carscanner
