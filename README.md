@@ -48,6 +48,10 @@ https://github.com/user-attachments/assets/c66aacf2-d840-45dc-a1d7-6817c38b49a3
    - moduleid : 327681, cmdid : 37 , payload (1 = ON, 2 = OFF) // AEB
    - moduleid : 327681, cmdid : 195 , payload (1 = ON, 2 = OFF) // DMS
      
+
+https://github.com/user-attachments/assets/32347f78-6b94-4423-878b-88b1bffb7bae
+
+
 2. Auto Seat Vent if AC ON
   - Subs moduleid : 327690, cmdid : 1
   - Turn on Seat Vent :
