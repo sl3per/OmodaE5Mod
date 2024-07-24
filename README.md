@@ -1,13 +1,34 @@
 # OmodaE5Mod
 
-## Auto On/Off Seat Ventilation when AC On/Off
 > [!CAUTION]
 > **!!! Disclaimer : Segala kerusakan terkait mobil anda diluar tanggung jawab developer aplikasi ini, pastikan mengerti konsekuensinya**
 > > [!IMPORTANT]
 > **!!! Penting : Pastikan anda mengerti tentang apa itu _adb, adb shell, adb push, pm install_**
+
+## Buka Youtube di HU Omoda E5 
+[Link](https://github.com/sl3per/OmodaE5Mod/blob/main/BukaYoutube.md) 
+![image](https://github.com/user-attachments/assets/cda63682-43cb-4569-a533-e17fbb144586)
+
+
+## Install apk di HU Omoda E5
+1. Cara masuk ke hidden menu
+  - Masuk ke Local Setting - System Setting
+  - Tap 10x di kiri tengah - atas
+2. Cara enable ADB
+  - Tap Encryption
+  - Kalikan 6 digit terakhir serialId /  productId dengan 802018
+  - Masukkan 6 digit terakhir di kolom password
+  - Masuk ke menu ADB, pilih Open
+3. Cara Install apk di HU
+  - Enable ADB
+  - Koneksikan adb client (windows only) ke HU melalui kabel USB-A
+  - Install apk seperti biasa (adb push - pm install)
+  - pertama, "adb push" dulu apk ke /data/local/tmp, kemudian masuk ke "adb shell", baru "pm install" apknya
+
+## Auto On/Off Seat Ventilation when AC On/Off
 1. Download   [E5-AutoOnOffSeatVent-V1.1.apk](https://github.com/sl3per/OmodaE5Mod/raw/main/E5-AutoOnOffSeatVent-V1.1.apk)
      - V1.1 : Penambahan fitur Gear Speed
-3. Push apk dan install apk ke HU, pastikan ADB sudah enabled, caranya ada dibagian bawah
+3. Push apk dan install apk ke HU, pastikan ADB sudah enabled, caranya ada diatas
 4. Masuk ke homescreen (4 titik kanan bawah), scroll ke bawah, klik apps **AutoSeatVent**
 5. Aplikasi akan running setiap kondisi layar HU nyala, bila Automasi tidak jalan, jalankan no 3 lagi
 
@@ -28,20 +49,6 @@ https://github.com/user-attachments/assets/c66aacf2-d840-45dc-a1d7-6817c38b49a3
 ![image](https://github.com/user-attachments/assets/65d3bef3-611b-44cd-9035-a24004fa8b3a)
 
 
-## Install apk di HU Omoda E5
-1. Cara masuk ke hidden menu
-  - Masuk ke Local Setting - System Setting
-  - Tap 10x di kiri tengah - atas
-2. Cara enable ADB
-  - Tap Encryption
-  - Kalikan 6 digit terakhir serialId /  productId dengan 802018
-  - Masukkan 6 digit terakhir di kolom password
-  - Masuk ke menu ADB, pilih Open
-3. Cara Install apk di HU
-  - Enable ADB
-  - Koneksikan adb client (windows only) ke HU melalui kabel USB-A
-  - Install apk seperti biasa (adb push - pm install)
-  - pertama, "adb push" dulu apk ke /data/local/tmp, kemudian masuk ke "adb shell", baru "pm install" apknya
 
 ## More coding 
 1. Disable AEB + DMS
