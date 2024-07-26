@@ -5,9 +5,18 @@
 > > [!IMPORTANT]
 > **!!! Penting : Pastikan anda mengerti tentang apa itu _adb, adb shell, adb push, pm install_**
 
-## Buka Youtube di HU Omoda E5 
-[Link](https://github.com/sl3per/OmodaE5Mod/blob/main/BukaYoutube.md) 
-![image](https://github.com/user-attachments/assets/cda63682-43cb-4569-a533-e17fbb144586)
+## Release Note
+- 20240726 :
+  - Update [AutoOnOffSeatVent to 1.2](https://github.com/sl3per/OmodaE5Mod/raw/main/E5-AutoOnOffSeatVent-V1.2.apk), tambah fitur :
+     - Auto Unlock Charging Gun (Beta)
+     - Add ADB Menu + Hidden Menu shortcut
+     - Bug fixes, running as a service
+  
+       
+## Additional Mod & Optimasi 
+- [Buka Youtube di HU Omoda E5](https://github.com/sl3per/OmodaE5Mod/blob/main/BukaYoutube.md) , tanpa alat tambahan
+- [Optimasi HU biar lebih responsif](https://github.com/sl3per/OmodaE5Mod/blob/main/optimasiHU.md)
+
 
 
 ## Install apk di HU Omoda E5
@@ -26,8 +35,12 @@
   - pertama, "adb push" dulu apk ke /data/local/tmp, kemudian masuk ke "adb shell", baru "pm install" apknya
 
 ## Auto On/Off Seat Ventilation when AC On/Off
-1. Download   [E5-AutoOnOffSeatVent-V1.1.apk](https://github.com/sl3per/OmodaE5Mod/raw/main/E5-AutoOnOffSeatVent-V1.1.apk)
+1. Download   [E5-AutoOnOffSeatVent-V1.2.apk](https://github.com/sl3per/OmodaE5Mod/raw/main/E5-AutoOnOffSeatVent-V1.2.apk)
      - V1.1 : Penambahan fitur Gear Speed
+     - V1.2 :
+       - Auto Unlock Charging Gun (Beta)
+       - Add ADB Menu + Hidden Menu shortcut
+       - Bug fixes, running as a service
 3. Push apk dan install apk ke HU, pastikan ADB sudah enabled, caranya ada diatas
 4. Masuk ke homescreen (4 titik kanan bawah), scroll ke bawah, klik apps **AutoSeatVent**
 5. Aplikasi akan running setiap kondisi layar HU nyala, bila Automasi tidak jalan, jalankan no 3 lagi
