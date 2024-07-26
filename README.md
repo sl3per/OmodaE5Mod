@@ -6,7 +6,7 @@
 > **!!! Penting : Pastikan anda mengerti tentang apa itu _adb, adb shell, adb push, pm install_**
 
 ## How To ??
-  1. Baca di bagian [Cara Enable ADB + Wifi di HU](https://github.com/sl3per/OmodaE5Mod/blob/main/enableadbwifi.md) atau [ini](https://github.com/sl3per/OmodaE5Mod/edit/main/README.md#install-apk-di-hu-omoda-e5)
+  1. Baca di bagian [Cara Enable ADB + Wifi di HU](https://github.com/sl3per/OmodaE5Mod/blob/main/enableadbwifi.md) atau [ini](https://github.com/sl3per/OmodaE5Mod/blob/main/README.md#install-apk-di-hu-omoda-e5)
   2. Baru masuk ke bagian "Auto On/Off Seat Ventilation when AC On/Off"
 
 
