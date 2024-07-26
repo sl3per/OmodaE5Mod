@@ -9,3 +9,4 @@
 7. adb shell
 8. pm install /data/local/tmp/[file apknya]
 9. di homescreen HU akan muncul aplikasi Firefox, buka dan klik shortcut untuk youtube nya
+![image](https://github.com/user-attachments/assets/cda63682-43cb-4569-a533-e17fbb144586)
