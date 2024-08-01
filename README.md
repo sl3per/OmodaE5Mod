@@ -19,7 +19,7 @@
 - 20240801 :
   - Update [AutoOnOffSeatVent to 1.3](https://github.com/sl3per/OmodaE5Mod/raw/main/E5-AutoOnOffSeatVent-V1.3.apk), tambah fitur :
      - Driving Mode (Offroad + Mud)
-     - Unistall apk existing dengan  "pm uninstall com.desaysv.autoseat" di "adb shell"
+     - Uninstall apk existing dengan  "pm uninstall com.desaysv.autoseat" di "adb shell"
      - Baru, install versi yg baru seperti biasa
   
        
