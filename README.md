@@ -13,6 +13,7 @@
 - _*Power off via long press "Power" button (2 sec) --> To Be_
 - _*Other function via long press "\*" button (2 sec) --> To Be_
 - _*Kontrol AC via power window (suhu + kipas) --> To Be_
+- _*Open AVM via double press "Power" button --> To Be_
 - Disable AEB + DMS on start vehicle --> Limited
 - Open Charging Cover via carlinko --> Limited
 
