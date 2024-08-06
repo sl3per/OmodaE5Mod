@@ -5,6 +5,18 @@
 > > [!IMPORTANT]
 > **!!! Penting : Pastikan anda mengerti tentang apa itu _adb, adb shell, adb push, pm install_**
 
+## Current Feature & Plan 
+- Auto Seat Ventilation --> released
+- Auto unlock charging gun --> released
+- Enable Mud + Offroad mode --> released
+- _*Regen Level via long press "0" button (2 sec) --> To Be_
+- _*Power off via long press "Power" button (2 sec) --> To Be_
+- _*Other function via long press "\*" button (2 sec) --> To Be_
+- _*Kontrol AC via power window (suhu + kipas) --> To Be_
+- Disable AEB + DMS on start vehicle --> Limited
+- Open Charging Cover via carlinko --> Limited
+
+
 ## How To ??
   1. Baca di bagian [Cara Enable ADB + Wifi di HU](https://github.com/sl3per/OmodaE5Mod/blob/main/enableadbwifi.md) atau [ini](#install-apk-di-hu-omoda-e5)
   2. Baru masuk ke bagian "Auto On/Off Seat Ventilation when AC On/Off"
